@@ -1,16 +1,17 @@
-### Hi there 👋
+### Jeff Mancilla
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;ServiceNow+Developer;Technologist)](https://git.io/typing-svg)
 
-<!--
-**jeffmancilla/jeffmancilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪 over a decade of IT, ServiceNow development experience in the higher education space
 
-Here are some ideas to get you started:
+🧠 learning [typescript][typescript], [svelte][svelte], [astro][astro], and [tailwind][tailwind]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏼‍💻 portfolio [jeffmancilla.github.io][website]  
+
+👔 connect [linkedin][linkedin]
+
+[typescript]: https://www.typescriptlang.org
+[svelte]: https://svelte.dev
+[astro]: https://astro.build
+[tailwind]: https://tailwindcss.com
+[website]: https://jeffmancilla.github.io
+[linkedin]: https://linkedin.com/in/jeffmancilla
