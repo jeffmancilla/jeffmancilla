@@ -5,11 +5,11 @@
 
 ⌨️ learning [express][express], [react][react], [django][django], [mongodb][mongodb] in General Assembly's Software Engineering Immersive
 
-🧠 skills [typescript][typescript], [svelte][svelte], [astro][astro], [tailwind][tailwind]  
+🧠 skills: [typescript][typescript], [svelte][svelte], [astro][astro], [tailwind][tailwind]  
 
-👨🏼‍💻 portfolio [jeffmancilla.github.io][website]  
+👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]  
 
-👔 connect [linkedin][linkedin]
+👔 connect: [linkedin][linkedin]
 
 [express]: https://expressjs.com
 [react]: https://react.dev
