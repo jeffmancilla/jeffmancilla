@@ -1,14 +1,20 @@
 ### Jeff Mancilla
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer;ServiceNow+Developer;Technologist)](https://git.io/typing-svg)
 
-💪 over a decade of IT, ServiceNow development experience in the higher education space
+💪 over a decade of IT, ServiceNow development and ITSM workflow automation experience
 
-🧠 learning [typescript][typescript], [svelte][svelte], [astro][astro], and [tailwind][tailwind]  
+⌨️ learning [express][express], [react][react], [django][django], [mongodb][mongodb] in General Assembly's Software Engineering Immersive
+
+🧠 skills [typescript][typescript], [svelte][svelte], [astro][astro], [tailwind][tailwind]  
 
 👨🏼‍💻 portfolio [jeffmancilla.github.io][website]  
 
 👔 connect [linkedin][linkedin]
 
+[express]: https://expressjs.com
+[react]: https://react.dev
+[django]: https://www.djangoproject.com
+[mongodb]: https://www.mongodb.com
 [typescript]: https://www.typescriptlang.org
 [svelte]: https://svelte.dev
 [astro]: https://astro.build
