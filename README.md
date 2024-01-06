@@ -1,5 +1,5 @@
 ### Jeff Mancilla
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;ServiceNow+Developer;Technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+developer;ServiceNow+admin;Technologist)](https://git.io/typing-svg)
 
 💪 over a decade of IT, ServiceNow development and ITSM workflow automation experience
 
