@@ -5,7 +5,7 @@
 
 🧠 skills: [typescript][typescript], [react][react], [svelte][svelte], [astro][astro], [tailwind][tailwind], [django][django]
 
-⌨️ General Assembly's Software Engineering Immersive grad
+⌨️ General Assembly Software Engineering Immersive grad
 
 👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]  
 
