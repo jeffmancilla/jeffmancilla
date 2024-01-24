@@ -3,9 +3,9 @@
 
 💪 over a decade of IT, ServiceNow development and ITSM workflow automation experience
 
-⌨️ learning [express][express], [react][react], [django][django], [mongodb][mongodb] in General Assembly's Software Engineering Immersive
+🧠 skills: [typescript][typescript], [react][react], [svelte][svelte], [astro][astro], [tailwind][tailwind], [django][django]
 
-🧠 skills: [typescript][typescript], [svelte][svelte], [astro][astro], [tailwind][tailwind]  
+⌨️ General Assembly's Software Engineering Immersive grad
 
 👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]  
 
