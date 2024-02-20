@@ -5,11 +5,11 @@
 
 ⌨️ General Assembly Software Engineering Immersive grad
 
-🧠 Skills: [typescript][typescript], [react][react], [svelte][svelte], [astro][astro], [tailwind][tailwind], [django][django]
+🧠 skills: [typescript][typescript], [react][react], [svelte][svelte], [astro][astro], [tailwind][tailwind], [django][django]
 
-👨🏼‍💻 Portfolio: [jeffmancilla.github.io][website]
+👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]
 
-👔 Connect: [linkedin.com/in/jeffmancilla][linkedin], [jeffmancilla@outlook.com][email]
+👔 connect: [linkedin.com/in/jeffmancilla][linkedin], [jeffmancilla@outlook.com][email]
 
 [express]: https://expressjs.com
 [react]: https://react.dev
