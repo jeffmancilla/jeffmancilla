@@ -1,11 +1,14 @@
 ### Jeff Mancilla
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Web+developer;ServiceNow+admin;Technologist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Engineer;ServiceNow+Developer;ITSM Lead)](https://git.io/typing-svg)
 
-💪 over a decade of IT, ServiceNow development and ITSM workflow automation experience
+💪 over a ten years of IT experience in the higher education sector doing:
+- ServiceNow development + admin
+- Drupal CMS development + web accessibility
+- System administration + IT Service Management
 
 ⌨️ General Assembly Software Engineering Immersive grad
 
-🧠 skills: [typescript][typescript], [react][react], [svelte][svelte], [astro][astro], [tailwind][tailwind], [django][django]
+🧠 skills: [typescript][typescript], [react][react], [astro][astro], [svelte][svelte], [tailwind][tailwind]
 
 👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]
 
