@@ -1,7 +1,7 @@
 ### Jeff Mancilla
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Front-end+Engineer;ServiceNow+Developer)](https://git.io/typing-svg)
 
-💪 over a ten years of IT experience in the higher education sector doing:
+💪 over ten years of IT experience in the higher education sector doing:
 - ServiceNow development + admin
 - Drupal CMS development + web accessibility
 - System administration + IT Service Management
