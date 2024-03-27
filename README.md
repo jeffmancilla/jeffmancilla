@@ -6,8 +6,6 @@
 - Drupal CMS development + web accessibility
 - System administration + IT Service Management
 
-⌨️ General Assembly Software Engineering Immersive grad
-
 🧠 skills: [typescript][typescript], [react][react], [astro][astro], [svelte][svelte], [tailwind][tailwind]
 
 👨🏼‍💻 portfolio: [jeffmancilla.github.io][website]
