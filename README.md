@@ -1,6 +1,6 @@
 ### Jeff Mancilla
-- ServiceNow developer, ITSM
-- Web developer + accessiblity
+- ServiceNow Engineer, ITSM
+- Full stack web developer + accessiblity
 
 🧠 skills: [typescript][typescript], [go][go], [react][react], [astro][astro], [svelte][svelte]
 
